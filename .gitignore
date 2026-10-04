@@ -1,0 +1,8 @@
+/build/
+/out/
+.cache/
+*.log
+*.tmp
+.DS_Store
+.idea/
+.vscode/
